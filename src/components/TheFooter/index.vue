@@ -1,10 +1,11 @@
 <script>
 export default {
-  name: '{{ camelCase name }}',
+  name: 'theFooter',
   components: {},
   data() {
     return {
-      title: 'Vue - Porject'
+      title: 'Vue - Porject',
+      author: 'Designed by Kanboo Wang'
     }
   }
 }

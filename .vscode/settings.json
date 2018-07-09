@@ -22,5 +22,8 @@
   "blueprint.templatesPath": [
     "../blueprint-templates",
     "./.vscode/blueprint-templates"
+  ],
+  "cSpell.words": [
+    "Vuex"
   ]
 }

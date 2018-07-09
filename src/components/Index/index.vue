@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: '{{ camelCase name }}',
+  name: 'index',
   components: {},
   data() {
     return {
