@@ -1,10 +1,10 @@
-# f2e-week5-develop
+# Vue.js Template
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
