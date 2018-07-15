@@ -6,6 +6,16 @@ import axios from 'axios'
 
 Vue.use(Vuex)
 
+/*
+vue 裡用
+import { mapState } from 'vuex'
+// 方法1(不推)
+this.$store.state.showLoading
+// 方法2(建議)
+computed: {
+  ...mapState(['showLoading','isLogin','userName','formData'])
+}
+*/
 const state = {
   showLoading: false,
   isLogin: false,
